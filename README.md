@@ -21,7 +21,7 @@ To install and run the backend locally, follow these steps:
 1. Clone this repository.
 2. Install dependencies using `npm install`.
 3. Set up your environment variables by creating a `.env` file and adding the necessary configurations.
-4. Start the server using `npm start`.
+4. Start the server using `node server.mjs`.
 
 ## Usage
 
